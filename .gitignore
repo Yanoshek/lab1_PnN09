@@ -25,3 +25,4 @@ hs_err_pid*
 # projekt i kartoteki IntelliJ
 /.idea/
 /out/
+/bin/
